@@ -1,7 +1,26 @@
 <?php 
 
 return [
-    "hello guys"=>"أهلا بكم",
-    "Welcome"=>"مرحبا",
-
+    "hello gus" => 'اهلا بكم ',
+    "welcom" => 'اهلا  ',
+    "offer name required" => 'أسم العرض مطلوب',
+    "offer name must be unique" => 'أسم العرض يجب الا يتكرر',
+    "Offer Price Numeric"  => 'سعر العرض يجب أن يكون أرقام',
+    "Offer Price Required"  => 'سعر العرض مطلوب',
+    "Add your offer" => 'أضافه عرض جديد ',
+    "Offer Name ar"   => 'أسم العرض العربي',
+    "Offer Name en"   => 'أسم العرض بالانجليزي',
+    "Offer Price"  => 'سعر العرض',
+    "Offer details ar" => 'تفاصيل العرض بالعربي',
+    "Offer details en" => 'تفاصيل العرض بالانجليزي',
+    "Save Offer"  => 'حفظ',
+    "Offer Name" => 'اسم العرض',
+    "operation" => 'العمليات',
+    "update" => 'تحديث',
+    "Offer details" => 'تفاصيل العرض',
+    "Offer details Required" => "تفاصيل العرض مطلوبة",
+    "Update your offer"  => "تعديل العرض ",
+    "delete"  => 'حذف',
+    "offer not exist"  => 'العرض غير موجود',
+    "offer deleted successfully" => 'تم حذف العرض بنجاح',
 ];
